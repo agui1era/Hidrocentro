@@ -5,7 +5,7 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 #define QoS 1
-#define pin 12
+#define pin 18
 
 //Serial para conectar con arduino
 #define RXD2 16
